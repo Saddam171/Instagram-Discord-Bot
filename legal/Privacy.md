@@ -1,103 +1,105 @@
-# Privacy Policy
-Last Updated: Jan 20, 2022
+# Política de Privacidade
+Última atualização: 26 de Outubro de 2022
 
-By using our Site/Bot, you agree that you have read and agree to this policy.
+Ao usar nosso Site/Bot, você concorda que leu e concorda com esta política.
 
-This is our "Privacy Policy" which sets out the policy which governs our use of information you provide in connection with the Instagram Embed Discord Bot website. The terms "you" and "your" refer to all individuals or entities accessing this website. The terms "we," "us," "our," refer to McShane.Systems and "bot" refers to our Discord bot (Instagram Embed Discord Bot) itself.
+Esta é a nossa "Política de Privacidade" que estabelece a política que rege nosso uso das informações que você fornece em conexão com o site Instagram Embed Discord Bot. Os termos "você" e "seu" referem-se a todos os indivíduos ou entidades que acessam este site. Os termos "nós", "nos", "nosso", referem-se a McShane.Systems e "bot" refere-se ao nosso bot Discord (Instagram Embed Discord Bot) em si.
 
-We may update this Privacy Policy from time to time. Changes in our Privacy Policy will be effective immediately. If you are a regular visitor to this website, we recommend that you check this Privacy Policy on a regular basis. By using the website and/or bot, you consent to the collection, use and transfer of your information in accordance with this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this website or our bot.
+Podemos atualizar esta Política de Privacidade de tempos em tempos. As alterações em nossa Política de Privacidade entrarão em vigor imediatamente. Se você é um visitante regular deste site, recomendamos que verifique esta Política de Privacidade regularmente. Ao usar o site e/ou bot, você concorda com a coleta, uso e transferência de suas informações de acordo com esta Política de Privacidade. Se você não concordar com esta Política de Privacidade, não use este site ou nosso bot.
 
-## PRIVACY STATEMENT
-We respect the privacy of your information. We provide this explanation about our information practices as a show of our commitment to protect your privacy. This policy describes the types of information we may collect from you or that you may provide when you visit this website and our practices for collecting, using, maintaining, protecting and disclosing that information.
+## DECLARAÇÃO DE PRIVACIDADE
+Respeitamos a privacidade de suas informações. Fornecemos esta explicação sobre nossas práticas de informações como uma demonstração de nosso compromisso em proteger sua privacidade. Esta política descreve os tipos de informações que podemos coletar de você ou que você pode fornecer ao visitar este site e nossas práticas para coletar, usar, manter, proteger e divulgar essas informações.
 
-This policy applies to information we collect:
+Esta política se aplica às informações que coletamos:
 
-On this website and/or via our Bot:
+Neste site e/ou através do nosso Bot:
 
-- Your e-mail address
-- If and when available, through mobile or desktop applications you download from this website, which provide dedicated non-browser- based interaction between you and this website.
-- When you interact with our applications on social media or third-party applications, websites and services, if those applications or advertising including links to this policy or of information from social media or third parties.
+- Seu endereço de email
+- Se e quando disponível, por meio de aplicativos móveis ou de desktop que você baixa deste site, que fornecem interação dedicada não baseada em navegador entre você e este site.
+- Quando você interage com nossos aplicativos em mídias sociais ou aplicativos, sites e serviços de terceiros, se esses aplicativos ou publicidade incluem links para esta política ou de informações de mídias sociais ou de terceiros.
 
-It does not apply to information collected by:
+Não se aplica às informações coletadas por:
 
-- us offline or through any other means, including on any other website operated by Instagram Embed Discord Bot or any third party; or
-- any third party, including through any application or content (including advertising) that may link to or be accessible from or on the website.
+- nos offline ou por qualquer outro meio, inclusive em qualquer outro site operado pelo Instagram Embed Discord Bot ou por terceiros; ou
+- qualquer terceiro, inclusive por meio de qualquer aplicativo ou conteúdo (incluindo publicidade) que possa vincular ou ser acessível a partir ou no site.
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we treat it. If you do not agree with our policies and practices, your choice is not to use our website or bot. By accessing or using this website/bot, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of this website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+Leia esta política com atenção para entender nossas políticas e práticas em relação às suas informações e como as tratamos. Se você não concordar com nossas políticas e práticas, sua escolha é não usar nosso site ou bot. Ao acessar ou usar este site/bot, você concorda com esta política de privacidade. Esta política pode ser alterada de tempos em tempos (consulte Alterações em nossa política de privacidade). Seu uso continuado deste site após fazermos alterações é considerado como aceitação dessas alterações, portanto, verifique a política periodicamente para atualizações.
 
-## THE INFORMATION WE COLLECT AND HOW WE COLLECT IT
-**Personally Identifiable Information.** At our website, we only collect personally identifiable information from individuals that they provide to us voluntarily. This means we do not require you to register or provide information to us in order to view our website. Instagram Embed Discord Bot only gathers personally identifiable data through our website, such as an email address, when voluntarily submitted by a visitor. Once collected, we may combine this information with other information collected from external sources.
+## AS INFORMAÇÕES QUE COLETAMOS E COMO AS COLETAMOS
+**Informações de identificação pessoal.** Em nosso site, coletamos apenas informações de identificação pessoal de indivíduos que eles nos fornecem voluntariamente. Isso significa que não exigimos que você se registre ou forneça informações para visualizar nosso site. O Instagram Embed Discord Bot só coleta dados de identificação pessoal por meio de nosso site, como um endereço de e-mail, quando enviado voluntariamente por um visitante. Uma vez coletadas, podemos combinar essas informações com outras informações coletadas de fontes externas.
 
-**Non-Personally Identifiable Information.** We may automatically collect certain technical information from your computer such as your Internet service provider, your IP address, your browser type, your operating system, the pages viewed, the pages viewed immediately before and after accessing the website, and the search terms entered to get to our site. This information allows us to improve and customize our services. We and our service providers may collect this information using "[cookies](https://en.wikipedia.org/wiki/HTTP_cookie)" or similar technologies. See the section on "Information We Collect Through Automatic Data Collection Technologies" below for more information.
+**Informações não pessoalmente identificáveis.** Podemos coletar automaticamente certas informações técnicas de seu computador, como seu provedor de serviços de Internet, seu endereço IP, seu tipo de navegador, seu sistema operacional, as páginas visualizadas, as páginas visualizadas imediatamente antes e depois acessando o site, e os termos de pesquisa inseridos para chegar ao nosso site. Esta informação permite-nos melhorar e personalizar os nossos serviços. Nós e nossos provedores de serviços podemos coletar essas informações usando "[cookies](https://en.wikipedia.org/wiki/HTTP_cookie)" ou tecnologias semelhantes. Consulte a seção "Informações que coletamos por meio de tecnologias de coleta automática de dados" abaixo para obter mais informações.
 
-**Information We Collect Through Automatic Data Collection Technologies.** As you navigate through and interact with our website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
 
-- Details of your visits to our website, including traffic data, location data, logs and other communication data, and the resources that you access and use on the website.
-- Information about your computer and internet connection, including your IP address, operating system and browser type.
-We also may use these technologies to collect information about your online activities over time (behavioral tracking), however we do not track your activities across third-party websites, other than third party websites related to products or services which are provided through our website.
 
-As we do not track activity across third party websites (except if branded as, or part of providing products or services through, one of our websites), "do not track" settings are generally not applicable; we do track actions on our website.
+**Informações que coletamos por meio de tecnologias de coleta automática de dados.** Conforme você navega e interage com nosso site, podemos usar tecnologias de coleta automática de dados para coletar determinadas informações sobre seu equipamento, ações e padrões de navegação, incluindo:
 
-The information we collect automatically is statistical data and may include personal information. In addition, we may maintain statistical data, or associate it, with personal information we collect in other ways or receive from third parties. It helps us to improve our website and to deliver a better and more personalized service, including by enabling us to:
+- Detalhes de suas visitas ao nosso site, incluindo dados de tráfego, dados de localização, logs e outros dados de comunicação, e os recursos que você acessa e usa no site.
+- Informações sobre seu computador e conexão com a Internet, incluindo seu endereço IP, sistema operacional e tipo de navegador.
+Também podemos usar essas tecnologias para coletar informações sobre suas atividades online ao longo do tempo (rastreamento comportamental), no entanto, não rastreamos suas atividades em sites de terceiros, exceto sites de terceiros relacionados a produtos ou serviços fornecidos por meio de nosso site.
 
-- Estimate our audience size and usage patterns.
-- Store information about your preferences, allowing us to customize our website according to your individual needs.
-- Recognize you when you return to our website.
+Como não rastreamos a atividade em sites de terceiros (exceto se for de marca ou parte do fornecimento de produtos ou serviços por meio de um de nossos sites), as configurações de "não rastrear" geralmente não são aplicáveis; nós rastreamos as ações em nosso site
 
-The technologies we use for this automatic data collection may include:
+As informações que coletamos automaticamente são dados estatísticos e podem incluir informações pessoais. Além disso, podemos manter dados estatísticos, ou associá-los, a informações pessoais que coletamos de outras maneiras ou recebemos de terceiros. Ajuda-nos a melhorar o nosso website e a prestar um serviço melhor e mais personalizado, permitindo-nos:
 
-- [**Cookies (or browser cookies).**](https://en.wikipedia.org/wiki/HTTP_cookie) You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our website.
-- **Web Beacons.** Pages of our website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit us, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+- Estime o tamanho do nosso público e os padrões de uso.
+- Armazenar informação sobre as suas preferências, permitindo-nos personalizar o nosso website de acordo com as suas necessidades individuais.
+- Reconhecê-lo quando você retornar ao nosso site.
 
-## THIRD-PARTY WEBSITES
-This website or messages distributed by our bot may contain links to third-party websites. These linked websites are not under our control, and we are not responsible for the privacy practices or the contents of any such linked website or any link contained in any linked website. We provide such links only as a convenience, and the inclusion of a link on the website does not imply endorsement of the linked website by Instagram Embed Discord Bot. If you provide any personal data through any such third-party website, your transaction will occur on the third party’s website (not this website) and the personal data you provide will be collected by and controlled by the privacy policy of that third party. We recommend that you familiarize yourself with the privacy policies and practices of any third parties. PLEASE NOTE THAT THIS PRIVACY POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.
+As tecnologias que usamos para essa coleta automática de dados podem incluir:
 
-## THIRD-PARTY USE OF COOKIES AND OTHER TRACKING TECHNOLOGIES
-Some content or applications, including advertisements, on the website are served by third-parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content. We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see Choices About How We use and Disclosure Your Information.
+- [**Cookies (ou cookies do navegador).**](https://en.wikipedia.org/wiki/HTTP_cookie) Você pode se recusar a aceitar cookies do navegador ativando a configuração apropriada em seu navegador. No entanto, se você selecionar essa configuração, poderá não conseguir acessar certas partes do nosso site. A menos que você tenha ajustado a configuração do seu navegador para recusar cookies, nosso sistema emitirá cookies quando você direcionar seu navegador para nosso site.
+- **Web Beacons.** As páginas de nosso site e nossos e-mails podem conter pequenos arquivos eletrônicos conhecidos como web beacons (também chamados de clear gifs, pixel tags e single-pixel gifs) que nos permitem, por exemplo, contar os usuários que visitaram essas páginas ou abriram um e-mail e outras estatísticas de sites relacionados (por exemplo, registrar a popularidade de determinado conteúdo do site e verificar a integridade do sistema e do servidor).
 
-## THE WAY WE USE INFORMATION
-This Privacy Statement governs use of the information that you provide to us through the website or bot. It does not govern the manner in which we may use information obtained from other sources (such as public records) or from you by means other than this website. We and other entities that we are involved in, or provide support for, the operation of this website or other purposes use information that we collect about you or that you provide to us, including any personal information:
+## SITES DE TERCEIROS
+Este site ou mensagens distribuídas pelo nosso bot podem conter links para sites de terceiros. Esses sites vinculados não estão sob nosso controle e não somos responsáveis ​​pelas práticas de privacidade ou pelo conteúdo de qualquer site vinculado ou qualquer link contido em qualquer site vinculado. Fornecemos esses links apenas por conveniência, e a inclusão de um link no site não implica o endosso do site vinculado pelo Instagram Embed Discord Bot. Se você fornecer quaisquer dados pessoais por meio de qualquer site de terceiros, sua transação ocorrerá no site do terceiro (não neste site) e os dados pessoais que você fornecer serão coletados e controlados pela política de privacidade desse terceiro. Recomendamos que você se familiarize com as políticas e práticas de privacidade de terceiros. OBSERVE QUE ESTA POLÍTICA DE PRIVACIDADE NÃO SE TRATA DE PRÁTICAS DE PRIVACIDADE OU INFORMAÇÃO DE TERCEIROS.
 
-- To present our website and its contents to you.
-- To provide you with information on programs, services or products.
-- For you to register for events, promotions, contests, sweepstakes or services.
-- For fundraising activities.
-- For membership activities, if applicable.
-- To process online transactions, purchases, registrations, donations or participation in programs.
-- To provide you with information that may be targeted to your interests.
-- To fulfill any other purpose for which you provide it.
-- To carry out our obligations and enforce our rights arising from any contracts entered into between you and us.
-- To notify you about changes to our website, bot or any items that we may offer through it.
-- To improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings, and to customize our site’s content, layout and services.
-- To request additional information from you for various purposes.
-- In any other way we may describe when you provide the information.
-- For any other purpose with your consent.
+## USO DE COOKIES E OUTRAS TECNOLOGIAS DE RASTREIO POR TERCEIROS
+Alguns conteúdos ou aplicativos, incluindo anúncios, no site são veiculados por terceiros, incluindo anunciantes, redes e servidores de anúncios, provedores de conteúdo e provedores de aplicativos. Esses terceiros podem usar cookies sozinhos ou em conjunto com web beacons ou outras tecnologias de rastreamento para coletar informações sobre você quando você usa nosso site. As informações que eles coletam podem estar associadas às suas informações pessoais ou podem coletar informações, incluindo informações pessoais, sobre suas atividades online ao longo do tempo e em diferentes sites e outros serviços online. Eles podem usar essas informações para fornecer publicidade baseada em interesses (comportamentais) ou outro conteúdo direcionado. Não controlamos as tecnologias de rastreamento desses terceiros ou como elas podem ser usadas. Se você tiver alguma dúvida sobre um anúncio ou outro conteúdo direcionado, entre em contato diretamente com o provedor responsável. Para obter informações sobre como você pode optar por não receber publicidade direcionada de vários provedores, consulte Opções sobre como usamos e divulgamos suas informações.
 
-We may also use your information if provided to us to contact you about our own and third-party services and products that may be of interest to you. If you do not want us to use your information in this way, you can opt out of receiving this information by so indicating in your registration/preferences file or by notifying us.
+## A FORMA COMO USAMOS A INFORMAÇÃO
+Esta Declaração de Privacidade rege o uso das informações que você nos fornece por meio do site ou bot. Ele não rege a maneira pela qual podemos usar informações obtidas de outras fontes (como registros públicos) ou de você por outros meios que não este site. Nós e outras entidades nas quais estamos envolvidos ou fornecemos suporte para a operação deste site ou outros fins usamos informações que coletamos sobre você ou que você nos fornece, incluindo quaisquer informações pessoais:
 
-We may also use or disclose information to resolve disputes, investigate problems or enforce our [Terms of Use](TermsAndConditions.md). At times, we may review status or activity of multiple users to do so. We may disclose or access information whenever we believe in good faith that the law so requires or if we otherwise consider it necessary to do so to maintain service and improve our services. We use your IP address to help diagnose problems with our server, to manage our website and to enhance our site based on the usage pattern we receive.
+- Para lhe apresentar o nosso website e os seus conteúdos.
+- Para lhe fornecer informações sobre programas, serviços ou produtos.
+- Para você se cadastrar em eventos, promoções, concursos, sorteios ou serviços.
+- Para atividades de angariação de fundos.
+- Para atividades de associação, se aplicável.
+- Para processar transações online, compras, inscrições, doações ou participação em programas.
+- Para lhe fornecer informações que possam ser direcionadas aos seus interesses.
+- Para cumprir qualquer outro propósito para o qual você o forneça.
+- Para cumprir nossas obrigações e fazer valer nossos direitos decorrentes de quaisquer contratos celebrados entre você e nós.
+- Para notificá-lo sobre alterações em nosso site, bot ou quaisquer itens que possamos oferecer por meio dele.
+- Para melhorar nossos esforços promocionais e de marketing, analisar estatisticamente o uso do site, melhorar nosso conteúdo e ofertas de produtos e personalizar o conteúdo, layout e serviços do nosso site.
+- Para solicitar informações adicionais de você para vários fins.
+- De qualquer outra forma que possamos descrever quando você fornecer as informações.
+- Para qualquer outro fim com o seu consentimento.
 
-## DISCLOSURE OF YOUR INFORMATION
-We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+Também podemos usar suas informações, se fornecidas a nós, para contatá-lo sobre nossos serviços e produtos próprios e de terceiros que possam ser de seu interesse. Se você não quiser que usemos suas informações dessa maneira, você pode optar por não receber essas informações indicando isso em seu arquivo de registro/preferências ou nos notificando.
 
-We may disclose personal information that we collect or you provide as described in this privacy policy:
+Também podemos usar ou divulgar informações para resolver disputas, investigar problemas ou aplicar nossos [Termos de Uso](TermsAndConditions.md). Às vezes, podemos revisar o status ou a atividade de vários usuários para fazer isso. Podemos divulgar ou acessar informações sempre que acreditarmos de boa fé que a lei assim o exige ou se considerarmos necessário fazê-lo para manter o serviço e melhorar nossos serviços. Usamos seu endereço IP para ajudar a diagnosticar problemas com nosso servidor, gerenciar nosso site e aprimorar nosso site com base no padrão de uso que recebemos.
 
-- To our affiliates.
-- To further participate in our programs or in connection with fundraising or promotions.
-- To contractors, service providers and other third parties we use to support our business.
-- To fulfill the purpose for which you provide it, such as registering for an event or entering a contest.
-- For any other purpose disclosed by us when you provide the information.
-- To a successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other transfer of some or all of the assets or rights of Instagram Embed Discord Bot or any related entity, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Instagram Embed Discord Bot about our website users is among the assets transferred.
-- With the consent of the person providing the information.
-- We may also disclose your personal information:
-- To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-- To enforce or apply our [Terms of Use](TermsAndConditions.md) and other agreements, including for billing and collection purposes.
-- If we believe disclosure is necessary or appropriate to protect the rights, property or safety of Instagram Embed Discord Bot, our participants or others. This includes exchanging information with other organizations for the purposes of fraud protection and credit risk reduction.
-## CHANGES TO OUR PRIVACY POLICY
-It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by e-mail to the primary e-mail address specified in your registration information if any has been established and/or through a notice on the website home page. The date the privacy policy was last revised is identified at the top of the page. If information has been collected, you are responsible for ensuring we have an up-to- date active and deliverable e-mail address for you, and for periodically visiting our website and this privacy policy to check for any changes.
+## DIVULGAÇÃO DE SUAS INFORMAÇÕES
+Podemos divulgar informações agregadas sobre nossos usuários e informações que não identifiquem nenhum indivíduo, sem restrições.
 
-## THIRD PARTY PRACTICES
-The Privacy Policy of an advertiser or promotional service appearing at our site may differ from ours. We encourage you to read that policy before responding to any offer.
+Podemos divulgar informações pessoais que coletamos ou que você fornece conforme descrito nesta política de privacidade:
 
-## CONTACT INFORMATION
-To ask questions or comment about this Privacy Policy and our privacy practices, please [contact us via Discord](https://discord.gg/6K3tdsYd6J).
+- Aos nossos afiliados.
+- Para participar ainda mais de nossos programas ou em conexão com angariação de fundos ou promoções.
+- Para contratados, prestadores de serviços e outros terceiros que usamos para apoiar nossos negócios.
+- Para cumprir o propósito para o qual você o fornece, como se inscrever em um evento ou participar de um concurso.
+- Para qualquer outra finalidade divulgada por nós quando você fornecer as informações.
+- Para um sucessor em caso de fusão, alienação, reestruturação, reorganização, dissolução ou outra transferência de alguns ou todos os ativos ou direitos do Instagram Embed Discord Bot ou qualquer entidade relacionada, seja em continuidade ou como parte de falência , liquidação ou processo semelhante, no qual as informações pessoais mantidas pelo Instagram Embed Discord Bot sobre os usuários do nosso site estão entre os ativos transferidos.
+- Com o consentimento da pessoa que fornece a informação.
+- Também podemos divulgar suas informações pessoais:
+- Para cumprir qualquer ordem judicial, lei ou processo legal, inclusive para responder a qualquer solicitação governamental ou regulatória.
+- Para fazer cumprir ou aplicar nossos [Termos de Uso](TermsAndConditions.md) e outros acordos, inclusive para fins de cobrança e cobrança.
+- Se acreditarmos que a divulgação é necessária ou apropriada para proteger os direitos, propriedade ou segurança do Instagram Embed Discord Bot, nossos participantes ou outros. Isso inclui a troca de informações com outras organizações para fins de proteção contra fraudes e redução do risco de crédito.
+## ALTERAÇÕES À NOSSA POLÍTICA DE PRIVACIDADE
+É nossa política publicar quaisquer alterações que fizermos à nossa política de privacidade nesta página. Se fizermos alterações materiais na forma como tratamos as informações pessoais de nossos usuários, notificaremos você por e-mail para o endereço de e-mail principal especificado em suas informações de registro, se algum tiver sido estabelecido e/ou por meio de um aviso na página inicial do site página. A data em que a política de privacidade foi revisada pela última vez é identificada na parte superior da página. Se as informações foram coletadas, você é responsável por garantir que tenhamos um endereço de e-mail ativo e disponível para você e por visitar periodicamente nosso site e esta política de privacidade para verificar quaisquer alterações.
+
+## PRÁTICAS DE TERCEIROS
+A Política de Privacidade de um anunciante ou serviço promocional que aparece em nosso site pode ser diferente da nossa. Recomendamos que você leia essa política antes de responder a qualquer oferta.
+
+## INFORMAÇÕES DE CONTATO
+Para fazer perguntas ou comentários sobre esta Política de Privacidade e nossas práticas de privacidade, [entre em contato conosco via Discord](https://discord.gg/TEMauza).
