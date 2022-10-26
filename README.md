@@ -2,24 +2,24 @@
 [![CodeQL](https://github.com/bman46/InstagramEmbedDiscordBot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/bman46/InstagramEmbedDiscordBot/actions/workflows/codeql-analysis.yml)
 [![Publish](https://github.com/bman46/InstagramEmbedDiscordBot/actions/workflows/AutoRelease.yml/badge.svg)](https://github.com/bman46/InstagramEmbedDiscordBot/actions/workflows/AutoRelease.yml)
 
-Delivers new posts from Instagram accounts to a Discord channel.
-Embeds linked videos and images from users linked Instagram posts, videos, and reels into a Discord chat. Public bot had over 500k users across over 2k servers before being shut down by the owner due to resource restrictions.
+Entrega novas postagens de contas do Instagram para um canal Discord.
+Embed vídeos e imagens vinculados de usuários vinculados a postagens, vídeos e bobinas do Instagram em um bate-papo do Discord. O bot público tinha mais de 500 mil usuários em mais de 2 mil servidores antes de ser desligado pelo proprietário devido a restrições de recursos.
 
-[Support Discord Server](https://discord.gg/6K3tdsYd6J)
+[Support Discord Server](https://discord.gg/TEMauza)
 
-## Features:
-- No prefixes needed
-- Videos are downloadable
-- Adjusted upload sizes for Nitro Boosted servers
-- Supports Discord slash commands
-- Supports subscribing to new posts from Instagram users
-- Multiple IG accounts for failover
+## Características:
+- Sem prefixos necessários
+- Os vídeos podem ser baixados
+- Tamanhos de upload ajustados para servidores Nitro Boosted
+- Suporta comandos de barra do Discord
+- Suporta a assinatura de novas postagens de usuários do Instagram
+- Várias contas IG para failover
 
-## Example: 
+## Exemplo: 
 ![Example of reels bot on discord](/docs/Content/ReadMe/Example.png)
 
-### Config.json format:
-Create a new file named `config.json`, copy and paste the contents below into it, fill it out, and then save it in the same directory as the Instagram Embed executable file. Replace any fields that are optional and not filled in with `""`. Example: `"OTPSecret": "",`. If you get an error with your JSON formatting, you can check your JSON syntax on [jsonlint.com](https://jsonlint.com/).
+### Como configurar:
+Crie um novo arquivo chamado `config.json`, copie e cole o conteúdo abaixo nele, preencha-o e salve-o no mesmo diretório do arquivo executável do Instagram Embed. Substitua quaisquer campos opcionais e não preenchidos por `""`. Exemplo: `"OTPSecret": "",`. Se você receber um erro com sua formatação JSON, poderá verificar sua sintaxe JSON em [jsonlint.com](https://jsonlint.com/).
 ```
 {
   "Token": "Token",
