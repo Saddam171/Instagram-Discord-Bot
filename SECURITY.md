@@ -1,25 +1,25 @@
-# Security Policy
+# Política de segurança
 
-## Supported Versions
+## Versões Suportadas
 
-Only the latest version of this program is supported. 
+Apenas a versão mais recente deste programa é suportada.
 
-## Reporting a Vulnerability
+## Como relatar uma vulnerabilidade
 
-If you believe you have found a security vulnerability in this repository, please report it to us through coordinated disclosure.
+Se você acredita ter encontrado uma vulnerabilidade de segurança neste repositório, informe-nos por meio de divulgação coordenada.
 
-Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.
+Não relate vulnerabilidades de segurança por meio de problemas públicos do GitHub, discussões ou solicitações pull.
 
-Instead, please send an email to the address in [@bman46's bio](https://github.com/bman46).
+Em vez disso, envie um e-mail para o endereço em [@Lucas Saddam](https://github.com/Saddam171).
 
-Please include as much of the information listed below as you can to help us better understand and resolve the issue:
+Inclua o máximo possível das informações listadas abaixo para nos ajudar a entender melhor e resolver o problema:
 
-- The type of issue (e.g., buffer overflow, SQL injection, or cross-site scripting)
-- Full paths of source file(s) related to the manifestation of the issue
-- The location of the affected source code (tag/branch/commit or direct URL)
-- Any special configuration required to reproduce the issue
-- Step-by-step instructions to reproduce the issue
-- Proof-of-concept or exploit code (if possible)
-- Impact of the issue, including how an attacker might exploit the issue
+- O tipo de problema (por exemplo, estouro de buffer, injeção de SQL ou script entre sites)
+- Caminhos completos do(s) arquivo(s) de origem relacionados à manifestação do problema
+- A localização do código-fonte afetado (tag/branch/commit ou URL direto)
+- Qualquer configuração especial necessária para reproduzir o problema
+- Instruções passo a passo para reproduzir o problema
+- Prova de conceito ou código de exploração (se possível)
+- Impacto do problema, incluindo como um invasor pode explorar o problema
 
-This information will help us triage your report more quickly.
+Essas informações nos ajudarão a fazer a triagem de seu relatório mais rapidamente.
