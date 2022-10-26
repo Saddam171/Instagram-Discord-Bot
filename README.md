@@ -1,6 +1,4 @@
 # Instagram Embed Discord Bot
-[![CodeQL](https://github.com/Saddam17/InstagramEmbedDiscordBot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Saddam17/InstagramEmbedDiscordBot/actions/workflows/codeql-analysis.yml)
-[![Publish](https://github.com/Saddam17/InstagramEmbedDiscordBot/actions/workflows/AutoRelease.yml/badge.svg)](https://github.com/Saddam17/InstagramEmbedDiscordBot/actions/workflows/AutoRelease.yml)
 
 Entrega novas postagens de contas do Instagram para um canal Discord.
 Embed vídeos e imagens vinculados de usuários vinculados a postagens, vídeos e bobinas do Instagram em um bate-papo do Discord. O bot público tinha mais de 500 mil usuários em mais de 2 mil servidores antes de ser desligado pelo proprietário devido a restrições de recursos.
