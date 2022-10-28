@@ -5,6 +5,8 @@ Embed vídeos e imagens vinculados de usuários vinculados a postagens, vídeos 
 
 [Support Discord Server](https://discord.gg/TEMauza)
 
+If you are here, please leave a ⭐️ at 
+
 ## Características:
 - Sem prefixos necessários
 - Os vídeos podem ser baixados
