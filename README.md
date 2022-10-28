@@ -1,5 +1,7 @@
 # Instagram Embed Discord Bot
 
+>![Visitor Count](https://camo.githubusercontent.com/b69e969500158d8cef615ee33731cad5633144db5a13ba089fa5f9c102146d29/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d76656e61787974)<br>
+
 Entrega novas postagens de contas do Instagram para um canal Discord.
 Embed vídeos e imagens vinculados de usuários vinculados a postagens, vídeos e bobinas do Instagram em um bate-papo do Discord. O bot público tinha mais de 500 mil usuários em mais de 2 mil servidores antes de ser desligado pelo proprietário devido a restrições de recursos.
 
