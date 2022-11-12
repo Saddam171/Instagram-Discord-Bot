@@ -55,4 +55,5 @@ Crie um novo arquivo chamado `config.json`, copie e cole o conteúdo abaixo nele
   "DefaultSubscriptionsPerGuildMax": 1,
   "HoursToCheckForNewContent": 3
 }
+
 ```
